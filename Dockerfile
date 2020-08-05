@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM nvidia/cuda:10.2-cudnn8-devel-ubuntu18.04
 
 MAINTAINER William Stein <wstein@sagemath.com>
 
